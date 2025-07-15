@@ -36,4 +36,5 @@ Looking for `IPv4 Address. . . . . . . . :192.168.*.* or 10.0.*.*` then go back 
 
 ---
 
-© 2025 Pekadi.com
+## License
+This project is licensed under the [MIT License](LICENSE).
