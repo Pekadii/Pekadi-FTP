@@ -11,8 +11,8 @@ A lightweight, client-accessible FTP-based PKG uploader for PS4 consoles via FTP
 
 
 ## 🚀 Requirements
-- Node.js installed
-- npm install express multer basic-ftp cors
+- `Node.js` installed
+- `npm install express multer basic-ftp cors`
 - PS4 Jailbreak on the same LAN or Wifi ( Debug + Server ) Settings enable.
 - A `.pkg` game or application file to upload
 - If there is no `pkg` folder in /data create one use FileZilla.
