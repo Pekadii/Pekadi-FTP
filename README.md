@@ -1,7 +1,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue) ![Release](https://img.shields.io/badge/Release-1.0-blue) ![Development](https://img.shields.io/badge/Development-1.0-blue.svg)
 ![banners](https://github.com/Pekadii/Pekadi-FTP/blob/main/Pekadi-PKG.png)
 
-A lightweight, client-accessible FTP-based PKG uploader for PS4 consoles via Remote Package Installer.
+A lightweight, client-accessible FTP-based PKG uploader for PS4 consoles via FTP.
 
 ## 💡 Features
 - Connect to PS4 FTP using IP and port.
